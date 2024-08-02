@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NTP-996
 - 👀 I’m interested in Rust programming
 - 🌱 I’m currently practicing Rust, tmux and neovim
-- 💞️ I’m looking to collaborate on anything that invole rust and blockchain tech
+- 💞️ I’m looking to collaborate on anything that involve rust and blockchain tech
 - 📫 How to reach me: [@IppoCrypto](https://t.me/IppoCrypto)
 
 <!---
